@@ -1,10 +1,4 @@
-//
-//  Constants.swift
-//  Flash Chat iOS13
-//
-//  Created by Ashraf alsalman on 23/07/2025.
-//  Copyright © 2025 Angela Yu. All rights reserved.
-//
+
 
 struct K {
     static let appname =  "⚡️FlashChat"
